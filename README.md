@@ -17,7 +17,7 @@ Esse aplicativo foi desenvolvido para fins educativo sobre o uso de APIs, é um 
 Clone o repositório:
 
 ```
-   git clone https://github.com/seu-usuario/gerenciador-de-voz.git
+   git clone https://github.com/Creitonz/Gerenciador-de-TTS
 ```
 
 Instale as dependências necessárias:
